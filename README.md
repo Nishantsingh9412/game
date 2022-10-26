@@ -9,6 +9,7 @@
 # score increases only while rolling 
 
 Play Game :- https://game-9412.web.app/
+Link 2 : - https://game-9412.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/59526404/197986268-1a70cff4-5b79-4022-8f53-70fd7b8d0bb0.png)
 
