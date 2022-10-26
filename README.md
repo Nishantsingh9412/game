@@ -1,5 +1,5 @@
 # game 
-# Warning it might blast your phone so open it only in pc 😂`
+# 💀💀 Warning it might blast your phone so open it only in pc 😂`
  Game using vanilla JS , HTML and CSS 
 
 # you have to score 50+ in 30 seconds to win 
