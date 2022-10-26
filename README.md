@@ -26,8 +26,3 @@ Play Game :- https://game-9412.web.app/
 
 ![image](https://user-images.githubusercontent.com/59526404/197985462-fe2908f8-05ea-4909-9dd4-852d7c0e0b24.png)
 
-
-
-
-![image](https://user-images.githubusercontent.com/59526404/197985472-5e0e1534-7b15-42f4-9660-bdcafc10514c.png)
-
