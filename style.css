@@ -16,3 +16,7 @@
 #player ,#layer1,#layer2,#layer3,#layer4,#layer5,#enemy_fly,#enemy_plant,#enemy_spider_big,#fire,#collide,#lives{
     display: none;
 }
+body{
+    background-image: url('assets/ko3.jpg');
+    background-repeat: no-repeat;
+}
