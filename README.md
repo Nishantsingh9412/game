@@ -6,7 +6,7 @@
 
 
 
-# use enter  key to roll 
+# use ENTER  key to roll 
 # score increases only while rolling 
 
 Play Game :- https://game-9412.web.app/
